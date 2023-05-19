@@ -8,7 +8,7 @@ function Home() {
     return (
         <div style={{ textAlign: "center" }}>
 
-            <h1>{`Chào mừng  ${theme.firstname}  đến với trang chủ`}</h1>
+            <h1>{`Chào mừng  ${theme.firstname}  đến với trang chủ của mình`}</h1>
         </div>
     )
 }
